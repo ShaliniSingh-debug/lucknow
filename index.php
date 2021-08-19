@@ -58,7 +58,7 @@ background-image: url('IMAGES/WHITE1.jpg');
                     </li>
 					
 					<li style="color:BLACK">
-                        <a style="color:BLACK" href="LIST.HTML" info="Cultural Heritage Sites Of UTTAR PRADESH"><i class="fa fa-home fa-fw"></i>Cultural Heritage Sites Of LUCKNOW</a>
+                        <a style="color:BLACK" href="list.html" info="Cultural Heritage Sites Of UTTAR PRADESH"><i class="fa fa-home fa-fw"></i>Cultural Heritage Sites Of LUCKNOW</a>
                     </li>
 					
 					<li><a style="color:BLACK" href="index.php?info=registration"><i class="fa fa-sign-out fa-fw"></i>Registration</a></li>
