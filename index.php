@@ -29,7 +29,7 @@ session_start();
 
 <STYLE>
 body{
-background-color:black; 
+
 background-image: url('IMAGES/WHITE1.jpg');
 }
 </STYLE>
